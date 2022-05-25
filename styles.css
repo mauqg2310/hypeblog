@@ -1,0 +1,10 @@
+#container{
+    text-align: center;
+    font-size: 2em;
+}
+
+#header_hyperblog{
+    background-color: aqua;
+    margin-left: 40rem ;
+    margin-right: 40rem;
+}
